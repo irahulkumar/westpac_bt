@@ -1,0 +1,5 @@
+
+service:
+  client:
+    timeout:
+      read: 5s
